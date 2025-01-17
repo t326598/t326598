@@ -4,16 +4,16 @@
 ---
 
 ## 👨‍💻 **About Me**  
-- 🎓 **Education:** 부천대학교 전자과 졸업 (2021.03 ~ 2023.02), 정보처리기사 자격증 보유
-- 🛠️ **Skills:** Java, Spring Boot, Flutter, React 등  
-- 🎯 **Goals:** 사용자 친화적이고 안정적인 서비스를 개발하는 풀스택 개발자  
+- 🎓 **Education:** 신진자동차고등학교 (2013.03 ~ 16.02), 전기 기사, 전자캐드 기능사 보유
+- 🛠️ **Skills:** Java, Spring Boot, Flutter, React, css 등  
+- 🎯 **Goals:** 안정적인 서비스를 개발하는 풀스택 개발자  
 - 📚 **Learning:** MSA기반 자바 프론트엔드 백엔드 풀스택 웹(앱) 개발
 
 
 ---
 
 ## 📂 **Portfolio**  
-- [📝 포트폴리오 페이지](https://chestnut-blinker-ca6.notion.site/167902bdb12f80828036d3d0221a6414?pvs=4)  
+- [📝 포트폴리오 페이지](https://www.notion.so/1692d10b811080ba8965e9556b6bb0f4)  
 
 ---
 
@@ -22,13 +22,14 @@
 ### 📌 **핏넥서스[정규 프로젝트]**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, JavaScript, MySQL  
 - **주제 :** 헬스장 관리 및 PT예약 시스템  
-- [핏넥서스 GitHub 링크](https://github.com/OhSeungWon00/MSA9_GYM.git)
+- [핏넥서스 GitHub 링크]([https://github.com/OhSeungWon00/MSA9_GYM.git](https://github.com/t326598/MSA_9-Project.git))
 
 
 ### 📌 **흑백요리사[미니 프로젝트]**  
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
-- **주제 :** 맛집 평점 및 리뷰 관리 시스템  
-- [흑백요리사 GitHub 링크](https://github.com/OhSeungWon00/MSA9_Food.git)
+- **주제 :** 중고거래 관리 시스템
+- 
+- [중고거래 사이트 애플마켓 GitHub 링크](https://github.com/t326598/MSA_9-Mini_Project.git)
 
 
 ---
