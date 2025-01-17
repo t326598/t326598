@@ -25,7 +25,7 @@
 - [핏넥서스 GitHub 링크]([https://github.com/OhSeungWon00/MSA9_GYM.git](https://github.com/t326598/MSA_9-Project.git))
 
 
-### 📌 **흑백요리사[미니 프로젝트]**  
+### 📌 **애플마켓[미니 프로젝트]**  
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
 - **주제 :** 중고거래 관리 시스템
 - 
