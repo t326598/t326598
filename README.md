@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 안녕하세요 풀스택 개발자 오승원 입니다.</h1>
+<h1 align="center"> 👋 안녕하세요 개발자 김도현 입니다.</h1>
 <h3 align="center">full-stack developer from Korea</h3>
 
 ---
@@ -6,7 +6,7 @@
 ## 👨‍💻 **About Me**  
 - 🎓 **Education:** 신진자동차고등학교 (2013.03 ~ 16.02), 전기 기사, 전자캐드 기능사 보유
 - 🛠️ **Skills:** Java, Spring Boot, Flutter, React, css 등  
-- 🎯 **Goals:** 안정적인 서비스를 개발하는 풀스택 개발자  
+- 🎯 **Goals:** 안정적이고 개성이 서비스를 개발하는 풀스택 개발자  
 - 📚 **Learning:** MSA기반 자바 프론트엔드 백엔드 풀스택 웹(앱) 개발
 
 
