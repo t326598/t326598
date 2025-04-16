@@ -31,9 +31,9 @@
 - 
 - [중고거래 사이트 애플마켓 GitHub 링크](https://github.com/t326598/MSA_9-Mini_Project.git)
 
-📌 FIT NEXUS (REST API, React)
-기술 스택 : React, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
-주제 : 헬스장 관리 및 PT예약 시스템
+### 📌 **FIT NEXUS (REST API, React)**
+- **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
+- **주제 :** 헬스장 관리 및 PT예약 시스템
 - [핏넥서스 GitHub - REACT 링크](https://github.com/t326598/MSA9_GYM_REST).
 
 ---
