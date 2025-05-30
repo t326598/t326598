@@ -19,6 +19,11 @@
 
 ## 🛠️ **Projects**  
 
+### 📌 **FIFTYFIFTY 팬페이지[사이드 프로젝트]**  
+- **기술 스택 :** Java, Spring Boot, HTML, CSS, TypeScript, MySQL, Vue.js 3.0 
+- **주제 :** 헬스장 관리 및 PT예약 시스템  
+- [핏넥서스 GitHub 링크](https://github.com/t326598/fiftyPage.git).
+- 
 ### 📌 **핏넥서스[정규 프로젝트]**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, JavaScript, MySQL  
 - **주제 :** 헬스장 관리 및 PT예약 시스템  
@@ -35,6 +40,11 @@
 - **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
 - **주제 :** 헬스장 관리 및 PT예약 시스템
 - [핏넥서스 GitHub - REACT 링크](https://github.com/t326598/MSA9_GYM_REST).
+- 
+### 📌 **FIT NEXUS (REST API, Flutter)**
+- **기술 스택 :** Flutter, Dart, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
+- **주제 :** 헬스장 관리 및 PT예약 시스템
+- [핏넥서스 GitHub - REACT 링크](https://github.com/t326598/MSA9_GYM_FLUTTER).
 
 ---
 ## 📊 **GitHub Stats**  
