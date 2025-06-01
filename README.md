@@ -13,7 +13,7 @@
 ---
 
 ## 📂 **Portfolio**  
-- [📝 포트폴리오 페이지](https://humorous-appendix-90d.notion.site/1692d10b811080ba8965e9556b6bb0f4)  
+- [📝 포트폴리오 페이지](http://bskgo88.dothome.co.kr/dh_profile/)  
 
 ---
 
