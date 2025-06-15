@@ -14,6 +14,7 @@
 
 ## 📂 **Portfolio**  
 - [📝 포트폴리오 페이지](http://bskgo88.dothome.co.kr/dh_profile/)  
+- [📝 노션 포트폴리오](https://humorous-appendix-90d.notion.site/THE-1692d10b811080ba8965e9556b6bb0f4) 
 
 ---
 
