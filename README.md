@@ -22,7 +22,7 @@
 
 ### 📌 **Web기반 영상 편집기[사이드 프로젝트]**  
 - **기술 스택 :** FFmpeg, JavaScript, HTML, CSS, Vue.js(Vue Router)
-- **주제 :** Vue 3.0, FFmpeg를 활용하여 브라우저에서 영상 자르기 및 미리보기, 다운로드가 가능한 데모 프로젝트
+- **주제 :** Vue 3.0, FFmpeg를 활용하여 브라우저에서 영상 부분 및 구간 자르기 + 병함, 미리보기, 다운로드가 가능한 데모 프로젝트입니다.
 - [WebVideoEditor GitHub 링크](https://github.com/t326598/WebVideoEditor.git).
   
 
