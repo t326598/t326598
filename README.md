@@ -29,7 +29,7 @@
 ### 📌 **FIFTYFIFTY 팬페이지[사이드 프로젝트]**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, TypeScript, MySQL, Vue.js 3.0 
 - **주제 :** 일정 및 미디어 콘텐츠를 한눈에 볼 수 있는 팬페이지
-- [FIFTY Page GitHub 링크](https://github.com/t326598/fiftyPage.git).
+- [FIFTY Page GitHub 링크](https://github.com/t326598/fiftyfiftypage.git).
   
 ### 📌 **핏넥서스[정규 프로젝트]**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, JavaScript, MySQL  
