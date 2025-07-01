@@ -13,23 +13,22 @@
 ---
 
 ## 📂 **Portfolio**  
-- [📝 포트폴리오 페이지](https://6852e9535e51ac294c207bee--timely-queijadas-e93381.netlify.app/)  
-
+- [📝 포트폴리오 페이지](https://dhprofile.netlify.app/)  
 
 ---
 
 ## 🛠️ **Projects**  
 
-### 📌 **Web기반 영상 편집기[사이드 프로젝트]**  
-- **기술 스택 :** FFmpeg, JavaScript, HTML, CSS, Vue.js(Vue Router)
-- **주제 :** Vue 3.0, FFmpeg를 활용하여 브라우저에서 영상 부분 및 구간 자르기 + 병함, 미리보기, 다운로드가 가능한 데모 프로젝트입니다.
-- [WebVideoEditor GitHub 링크](https://github.com/t326598/WebVideoEditor.git).
-  
-
 ### 📌 **FIFTYFIFTY 팬페이지[사이드 프로젝트]**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, TypeScript, MySQL, Vue.js 3.0 
 - **주제 :** 일정 및 미디어 콘텐츠를 한눈에 볼 수 있는 팬페이지
 - [FIFTY Page GitHub 링크](https://github.com/t326598/fiftyfiftypage.git).
+- [FIFTY Deploy Page 링크](https://fiftypage.netlify.app/).
+
+### 📌 **Web기반 영상 편집기[사이드 프로젝트]**  
+- **기술 스택 :** FFmpeg, JavaScript, HTML, CSS, Vue.js(Vue Router)
+- **주제 :** Vue 3.0, FFmpeg를 활용하여 브라우저에서 영상 부분 및 구간 자르기 + 병함, 미리보기, 다운로드가 가능한 데모 프로젝트입니다.
+- [WebVideoEditor GitHub 링크](https://github.com/t326598/WebVideoEditor.git).
   
 ### 📌 **핏넥서스[정규 프로젝트]**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, JavaScript, MySQL  
