@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 안녕하세요 빠르게 성장하는 개발자 김도현 입니다.</h1>
+<h1 align="center"> 👋 안녕하세요'WHY'를 고민하고 'HOW'를 찾는 개발자 김도현 입니다.</h1>
 <h3 align="center">full-stack developer from Korea</h3>
 
 ---
