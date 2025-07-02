@@ -21,25 +21,41 @@
 
 ### 📌 **FIFTYFIFTY 팬페이지[사이드 프로젝트]**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, TypeScript, MySQL, Vue.js 3.0 
-- **주제 :** 일정 및 미디어 콘텐츠를 한눈에 볼 수 있는 팬페이지
+- **주제 :** 팬들이 일정, 미디어, 멤버 정보들을 보다 편하게 볼 수있도록 기획한 정보 사이트입니다.
+  - **소개 :**
+  - 인원: 1명
+  - [Frontend] 일정 캘린더, 멤버 필터링, 유튜브 영상 표시 등 SPA 구현
+  - [Backend] 카테고리 기반 색상 반환 API, Cron 스케줄러로 유튜브 데이터 자동 동기화
+  - 대량 데이터 전송 시 List + for문 조합으로 쿼리 최적화 진행
+  - Back과 Front에서 기능별로 분리하여 유지보수성과 재사용성을 높였습니다.
+  - Netlify, Render, AWS S3, CloudFront, RDS를 통해 배포했으며 Git Action으로 CI/CD를 관리했습니다.
+  - 배포 과정에서 부팅 속도를 90초 > 40초로 55% 단축했습니다.
 - [FIFTY Page GitHub 링크](https://github.com/t326598/fiftyfiftypage.git).
 - [FIFTY Deploy Page 링크](https://fiftypage.netlify.app/).
 
 ### 📌 **Web기반 영상 편집기[사이드 프로젝트]**  
 - **기술 스택 :** FFmpeg, JavaScript, HTML, CSS, Vue.js(Vue Router)
-- **주제 :** Vue 3.0, FFmpeg를 활용하여 브라우저에서 영상 부분 및 구간 자르기 + 병함, 미리보기, 다운로드가 가능한 데모 프로젝트입니다.
+- **주제 :** 영상 편집 도구에 대한 기술적 이해를 높이고 실무 능력을 키우고자 진행한 프로젝트
+- **소개 :**
+  - 인원: 1명
+  - 담당 역할: Web기반 영상 편집
+  - FFmpeg.wasm을 활용하여 영상 자르기, 미리보기, 다운로드 기능 구현
+  - 단일 기능 앱 구조 설계 경험 + 영상 처리 로직 직접 구현
+  - 프론트 중심의 싱글 페이지 애플리케이션(SPA)
+- [핏넥서스 GitHub - REACT 링크](https://github.com/t326598/MSA9_GYM_REST).
 - [WebVideoEditor GitHub 링크](https://github.com/t326598/WebVideoEditor.git).
-  
-### 📌 **핏넥서스[정규 프로젝트]**  
-- **기술 스택 :** Java, Spring Boot, HTML, CSS, JavaScript, MySQL  
-- **주제 :** 헬스장 관리 및 PT예약 시스템  
-- [핏넥서스 GitHub 링크](https://github.com/t326598/MSA_9-Project.git).
-
+- 
 ### 📌 **FIT NEXUS (REST API, React)**
 - **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
 - **주제 :** 헬스장 관리 및 PT예약 시스템
+- - **소개 :**
+  - 인원: 5명
+  - 담당 역할: 로그인 및 문의사항 파트 구
+  - [Frontend] React 및 Flutter를 활용하여 웹/앱 클라이언트 개발, 로그인 상태는 React Context로 관리
+  - [Backend] Spring Boot 기반으로 RESTful API 설계 및 회원 인증(JWT) 구현
+  - 페이지별 유저 데이터 비교 로직을 통해 보안 및 UX 강화
 - [핏넥서스 GitHub - REACT 링크](https://github.com/t326598/MSA9_GYM_REST).
-  
+
 ### 📌 **FIT NEXUS (REST API, Flutter)**
 - **기술 스택 :** Flutter, Dart, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
 - **주제 :** 헬스장 관리 및 PT예약 시스템
