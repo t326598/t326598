@@ -22,7 +22,6 @@
 ### 📌 **FIFTYFIFTY 팬페이지[사이드 프로젝트]**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, TypeScript, MySQL, Vue.js 3.0 
 - **주제 :** 팬들이 일정, 미디어, 멤버 정보들을 보다 편하게 볼 수있도록 기획한 정보 사이트입니다.
-  - **소개 :**
   - 인원: 1명
   - [Frontend] 일정 캘린더, 멤버 필터링, 유튜브 영상 표시 등 SPA 구현
   - [Backend] 카테고리 기반 색상 반환 API, Cron 스케줄러로 유튜브 데이터 자동 동기화
@@ -36,7 +35,6 @@
 ### 📌 **Web기반 영상 편집기[사이드 프로젝트]**  
 - **기술 스택 :** FFmpeg, JavaScript, HTML, CSS, Vue.js(Vue Router)
 - **주제 :** 영상 편집 도구에 대한 기술적 이해를 높이고 실무 능력을 키우고자 진행한 프로젝트
-- **소개 :**
   - 인원: 1명
   - 담당 역할: Web기반 영상 편집
   - FFmpeg.wasm을 활용하여 영상 자르기, 미리보기, 다운로드 기능 구현
@@ -48,7 +46,6 @@
 ### 📌 **FIT NEXUS (REST API, React)**
 - **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
 - **주제 :** 헬스장 관리 및 PT예약 시스템
-- - **소개 :**
   - 인원: 5명
   - 담당 역할: 로그인 및 문의사항 파트 구
   - [Frontend] React 및 Flutter를 활용하여 웹/앱 클라이언트 개발, 로그인 상태는 React Context로 관리
