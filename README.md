@@ -19,6 +19,22 @@
 
 ## 🛠️ **Projects**  
 
+### 📌 **FIT NEXUS (REST API, React)**
+- **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
+- **주제 :** 헬스장 관리 및 PT예약 시스템
+  - 인원: 5명
+  - 담당 역할: 로그인 및 문의사항 파트 구
+  - [Frontend] React 및 Flutter를 활용하여 웹/앱 클라이언트 개발, 로그인 상태는 React Context로 관리
+  - [Backend] Spring Boot 기반으로 RESTful API 설계 및 회원 인증(JWT) 구현
+  - 페이지별 유저 데이터 비교 로직을 통해 보안 및 UX 강화
+- [핏넥서스 GitHub - REACT 링크](https://github.com/t326598/MSA9_GYM_REST).
+
+### 📌 **FIT NEXUS (REST API, Flutter)**
+- **기술 스택 :** Flutter, Dart, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
+- **주제 :** 헬스장 관리 및 PT예약 시스템
+- [핏넥서스 GitHub - REACT 링크](https://github.com/t326598/MSA9_GYM_FLUTTER).
+
+
 ### 📌 **FIFTYFIFTY 팬페이지[사이드 프로젝트]**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, TypeScript, MySQL, Vue.js 3.0 
 - **주제 :** 팬들이 일정, 미디어, 멤버 정보들을 보다 편하게 볼 수있도록 기획한 정보 사이트입니다.
@@ -40,24 +56,8 @@
   - FFmpeg.wasm을 활용하여 영상 자르기, 미리보기, 다운로드 기능 구현
   - 단일 기능 앱 구조 설계 경험 + 영상 처리 로직 직접 구현
   - 프론트 중심의 싱글 페이지 애플리케이션(SPA)
-- [핏넥서스 GitHub - REACT 링크](https://github.com/t326598/MSA9_GYM_REST).
 - [WebVideoEditor GitHub 링크](https://github.com/t326598/WebVideoEditor.git).
-- 
-### 📌 **FIT NEXUS (REST API, React)**
-- **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
-- **주제 :** 헬스장 관리 및 PT예약 시스템
-  - 인원: 5명
-  - 담당 역할: 로그인 및 문의사항 파트 구
-  - [Frontend] React 및 Flutter를 활용하여 웹/앱 클라이언트 개발, 로그인 상태는 React Context로 관리
-  - [Backend] Spring Boot 기반으로 RESTful API 설계 및 회원 인증(JWT) 구현
-  - 페이지별 유저 데이터 비교 로직을 통해 보안 및 UX 강화
-- [핏넥서스 GitHub - REACT 링크](https://github.com/t326598/MSA9_GYM_REST).
-
-### 📌 **FIT NEXUS (REST API, Flutter)**
-- **기술 스택 :** Flutter, Dart, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
-- **주제 :** 헬스장 관리 및 PT예약 시스템
-- [핏넥서스 GitHub - REACT 링크](https://github.com/t326598/MSA9_GYM_FLUTTER).
-
+  
 ---
 ## 📊 **GitHub Stats**  
 
