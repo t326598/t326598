@@ -32,7 +32,7 @@
 ### 📌 **FIT NEXUS (REST API, Flutter)**
 - **기술 스택 :** Flutter, Dart, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
 - **주제 :** 헬스장 관리 및 PT예약 시스템
-- [핏넥서스 GitHub - REACT 링크](https://github.com/t326598/MSA9_GYM_FLUTTER).
+- [핏넥서스 GitHub - FLUTTER 링크](https://github.com/t326598/MSA9_GYM_FLUTTER).
 
 
 ### 📌 **FIFTYFIFTY 팬페이지[사이드 프로젝트]**  
